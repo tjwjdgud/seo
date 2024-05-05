@@ -3,7 +3,6 @@
 # encoding: utf-8
 
 import getpass
-
 import threading
 
 from mono_common import *
